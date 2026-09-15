@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FullscreenTheme" parent="android:Theme.Black.NoTitleBar.Fullscreen">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- Fix black bar on Android 12+ (cutout / display notch) -->
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+        <!-- Disable enforced contrast for nav/status bars on Android 10+ -->
+        <item name="android:enforceNavigationBarContrast">false</item>
+        <item name="android:enforceStatusBarContrast">false</item>
+    </style>
+</resources>
