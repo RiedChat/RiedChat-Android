@@ -8,8 +8,8 @@
   [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](./LICENSE)
   [![GitHub](https://img.shields.io/badge/GitHub-RiedChat-black?logo=github)](https://github.com/RiedChat/RiedChat)
 
-  [![Русский](https://img.shields.io/badge/lang-Русский-blue)](README.md)
-  [![English](https://img.shields.io/badge/lang-English-lightgrey)](README.en.md)
+  [![Русский](https://img.shields.io/badge/lang-Русский-lightgrey)](README.md)
+  [![English](https://img.shields.io/badge/lang-English-blue)](README.en.md)
 </div>
 
 ## About
